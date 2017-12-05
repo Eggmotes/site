@@ -1,1 +1,16 @@
-theme: jekyll-theme-time-machine
+# Using the advaith1/time-machine theme
+remote_theme: advaith1/time-machine
+# Site title
+title:       Eggmotes
+# The name of the repository
+repotitle:   Eggmotes Site
+# Description
+description: Website for the Eggmotes server
+# Author
+author:      advaith#9121
+# Author URL
+authorurl:   https://github.com/advaith1
+# URL to the page. Usually https://orgname.github.io (put whatever's in the CNAME otherwise)
+url:         https://info.eggmotes.tk
+# favicon URL
+favicon:     https://cdn.discordapp.com/icons/382989946836877312/d9546a1eacba79a227fb444742940967.png?size=1024
