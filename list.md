@@ -1,3 +1,5 @@
+# Eggmotes List
+
 Use Ctrl+F to search. 
 
 Eggmote | Global | Name | Server | Link | Artist
